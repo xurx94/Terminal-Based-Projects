@@ -34,11 +34,8 @@ bank_system.exe
 ./bank_system
 
 ```
-```
 
-### A few quick tips on the changes made:
+## A few quick tips on the changes made:
 * **The `git clone` link:** I cleaned up the URL so it points directly to your `xurx94` repository without the extra markdown brackets, which can sometimes break terminal copy-pasting.
 * **Code blocks:** Added the three backticks (```) around your setup commands so they render nicely as copyable code blocks on GitHub.
 * **Usage section:** Since it's a C++ file, added a quick guide on how someone downloading the repo can actually compile and test your banking system.
-
-```
