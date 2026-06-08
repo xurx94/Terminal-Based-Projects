@@ -1,5 +1,4 @@
 
-```markdown
 # CLI Projects 
 
 > A collection of my command-line interface (CLI) projects built over the years.
